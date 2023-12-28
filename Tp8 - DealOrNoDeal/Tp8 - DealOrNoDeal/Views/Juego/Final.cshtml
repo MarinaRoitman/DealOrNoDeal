@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Final";
+}
+
+<section class="my-4 pt-5">
+    <div class="container">
+        <!--Jumbotron-->
+        <br>
+        <br>
+        <br>
+        <div class="jumbotron">
+            <div class=" text-white bg-none bg-transparent mb-3">
+                <h1 class="display-4">¡Felicidades!</h1>
+                <p class="lead">Ganaste un total de $@(ViewBag.plataFinal).</p>
+                <hr class="my-4">
+                <p class="lead">
+                    <a class="btn btn-dark btn-lg" onclick="window.location='@Url.Action("Index", "Juego")'" role="button">Volver a jugar</a>
+                </p>
+            </div>
+        </div>
+        <br>
+        <br>
+        <!--Fin jumbotron-->
+    </div>
+</section>

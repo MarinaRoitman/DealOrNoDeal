@@ -1,0 +1,153 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="my-4 pt-5">
+    <div class="container">
+        <h1 class="tituloPrincipal"><strong> BIENVENIDO </strong></h1>
+        <br />
+        <div class="centrar">
+            <section>
+                <div class="FtoLogoGrande">
+                    <img src="~/Content/Imagenes utilizadas/Logo chiquito.png" alt="Logo">
+                </div>
+                <div class="FtoLogoChico">
+                    <img src="~/Content/Imagenes utilizadas/Logo superchiquito.png" alt="Logo">
+                </div>
+                <h5>Think about it. It's now or never!</h5>
+            </section>
+            <br />
+            <p> </p>
+            <section>
+                <h3 class="encuadre">TUTORIAL Y PREGUNTAS FRECUENTES</h3>
+                <br />
+                <!-- Accordion -->
+                <div class="accordion tam" id="accordionExample">
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    ¿De que trata el juego?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div class="card-body">
+                                El juego consta de 26 maletines que representan diversas cantidades de dinero.
+                                Sin saber qué cantidad corresponde a cada maletín, el concursante elige uno, en
+                                el cual supone que contiene el premio máximo. Dicho Maletín permanecerá cerrado
+                                hasta el final del juego. Luego, el participante tendrá la opción de descartar 6
+                                maletines para recibir la primera oferta de la banca​. El concursante puede aceptar
+                                la oferta o seguir abriendo maletines. Luego el juego dará la opción a descartar,
+                                7 maletines, 6, 5, 4, 3, 2 y 1 maletines sucesivamente hasta que quede 1 disponible
+                                y el elegido por el concursante. (siempre con la oferta de la Banca de por medio).
+                                Como ambos (el concursante y la banca) desconocen el valor de su maletín, puede que
+                                el concursante haga muy buen negocio al vender a un buen precio un maletín que puede
+                                contener cifras mínimas o uno muy malo si contiene cifras máximas. Si opta por seguir
+                                abriendo maletines y estos corresponden a cifras menores, aumentará el valor de la
+                                oferta de la banca, caso contrario disminuirá.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    ¿Se juega de forma individual?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Si. El juego está pensado para ser jugado por una persona, pero eso no significa que
+                                no puedas tener a algún amigo/a a tu lado a la hora de jugarlo.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    ¿Cómo jugar?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Para jugar, debera presionar el boton jugar debajo de la pagina, que lo redireccionara
+                                al juego. Al comienzo del juego se selecciona un maletin con dinero para el final del juego
+                                y despues de eso se van seleccionando maletines hasta que la banca ofrezca una oferta,
+                                se debera llegar al fin del juego con la mayor cantidad de plata.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    ¿Cuando termina el juego?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                            <div class="card-body">
+                                El juego termina cuando el jugador descarta todas los maletines (quedándose con la
+                                suya) o si acepta alguna de las ofertas de la banca.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFive">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    ¿Cual es el objetivo del juego?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                            <div class="card-body">
+                                El objetivo final de la partida para el usuario es quedarse con la cifra más alta
+                                posible.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingSix">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    ¿Cuanto dura una partida?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Eso depende de que tan rápido el jugador decida que hacer, usualmente dura unos
+                                10 minutos.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingSeven">
+                            <h2 class="mb-0">
+                                <button class="btn active collapsed tamPreg" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    ¿Que son las ofertas de la banca?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Las ofertas de la banca se hacen para saber si queres terminar el juego con el dinero que la
+                                banca te ofrece mas el dinero del malentin seleccionado, cuanto mas dinero te ofrezca la
+                                banca, mas vas a tener como resultado final.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin Accordion -->
+            </section>
+            <br>
+            <button class="btn btn-dark active btn-lg" onclick="window.location='@Url.Action("Index", "Juego")'" alt="Jugar">Jugar</button>
+        </div>
+    </div>
+</section>
+<br>

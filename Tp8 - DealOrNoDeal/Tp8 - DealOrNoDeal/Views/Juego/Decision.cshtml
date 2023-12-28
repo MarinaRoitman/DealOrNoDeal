@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Decision";
+}
+
+<section class="my-4 pt-5">
+    <div class="container">
+        <h1 class="decoration">Deal or no deal?</h1>
+        <div class="row">
+            <div class="col">
+                <div class="centrar">
+                    @for (int i = 0; i < 13; i++)
+                    {
+                        for (int a = 0; a < 26; a++)
+                        {
+                            if (i == ViewBag.Maletines[a].Importe)
+                            {
+                                if (ViewBag.Maletines[a].estaAbierto)
+                                {
+                                    <p class="encuadrePrecios efectoSombra precioFueSeleccionado">$@(ViewBag.DevolverValoresPosiblesMaletines[i])</p>
+                                    <br>
+                                }
+                                else
+                                {
+                                    <p class="encuadrePrecios efectoSombra">$@(ViewBag.DevolverValoresPosiblesMaletines[i])</p>
+                                    <br>
+                                }
+                            }
+                        }
+                    }
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="centrar">
+                    <div class="centrar">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <div class="encuadreOferta">
+                            <br />
+                            <h4>La banca te ofrece:</h4>
+                            <h3>$@ViewBag.ofertaARealizar</h3>
+                            <h4>¿Aceptarás el trato?</h4>
+                            <button type="button" onclick="location.href='@Url.Action("aceptoONo", "Juego", new { decision=true })'" class="btn btn-success ">Si</button>
+                            <button type="button" onclick="location.href='@Url.Action("aceptoONo", "Juego", new { decision=false })'"  class="btn btn-danger">No</button>
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="centrar">
+                    @for (int z = 13; z < 26; z++)
+                    {
+                        for (int a = 0; a < 26; a++)
+                        {
+                            if (z == ViewBag.Maletines[a].Importe)
+                            {
+                                if (ViewBag.Maletines[a].estaAbierto)
+                                {
+                                    <p class="encuadrePrecios efectoSombra precioFueSeleccionado">$@(ViewBag.DevolverValoresPosiblesMaletines[z])</p>
+                                    <br>
+                                }
+                                else
+                                {
+                                    <p class="encuadrePrecios efectoSombra">$@(ViewBag.DevolverValoresPosiblesMaletines[z])</p>
+                                    <br>
+                                }
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br />

@@ -1,0 +1,401 @@
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csprojAssemblyReference.cache
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+C:\Users\marin_000\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csprojAssemblyReference.cache
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csprojAssemblyReference.cache
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CoreCompileInputs.cache
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+E:\2020\11 Taller de Programacion\3er Trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.AssemblyReference.cache
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.AssemblyReference.cache
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Desktop\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll.config
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Tp8 - DealOrNoDeal.pdb
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.exe.config
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csc.rsp
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.exe.config
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\csi.rsp
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Buffers.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Memory.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.exe.config
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\vbc.rsp
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\WebGrease.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Newtonsoft.Json.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Helpers.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Mvc.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Optimization.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.Razor.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\Antlr3.Runtime.pdb
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.AssemblyReference.cache
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.csproj.CopyComplete
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.dll
+C:\Users\Maru\Documents\GitHub\DealOrNoDeal\Tp8 - DealOrNoDeal\Tp8 - DealOrNoDeal\obj\Debug\Tp8 - DealOrNoDeal.pdb
